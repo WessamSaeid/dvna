@@ -87,3 +87,5 @@ module.exports = function (passport) {
     }
 
 }
+let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
+
